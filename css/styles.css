@@ -890,6 +890,7 @@ button {
   padding: 8px 24px;
   margin-left: auto;
   margin-right: auto;
+  gap: 16px;
 }
 @media screen and (min-width: 768px) {
   .subscribe-button {
